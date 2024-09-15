@@ -1,0 +1,68 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('tech.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #ffffff;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #00ffcc;
+}
+
+label {
+    font-size: 18px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="number"] {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #00ffcc;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00997a;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+
+
+#usage-chart {
+    margin-top: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Add a border with white color (adjust opacity as needed) */
+    border-radius: 8px; /* Optional: Add border radius for rounded corners */
+    padding: 10px; /* Optional: Add padding for better spacing */
+}
