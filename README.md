@@ -81,6 +81,12 @@ Open your web browser and navigate to:
 http://127.0.0.1:5000
 ```
 
+## Screenshot
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="screenshot/Carbon-Footprint-Calculator.JPG" alt="Dashboard Overview" width="100%" style="border: 2px solid black; margin: 10px 0;" />
+</div>
+
 
 
 
